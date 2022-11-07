@@ -1,0 +1,28 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Anton", sans-serif;
+}
+
+p {
+    font-family: "Jura", sans-serif;
+}
+
+/*Navigation Bar*/
+
+.customNav {
+    position: fixed;
+    width: 100%;
+    background: url("../images/teal2.jpg");
+    background-color: transparent;
+    background-size: cover;
+    z-index: 10;
+}
+
+.customNav a{
+    color: white !important;
+}
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+}
+
+/*Jumbotron*/
