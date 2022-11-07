@@ -1,4 +1,8 @@
-h1, h2, h3, h4, h5, h6 {
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2, h3, h4, h5, h6 {
     font-family: "Anton", sans-serif;
 }
 
@@ -26,3 +30,14 @@ p {
 }
 
 /*Jumbotron*/
+.jumbotron {
+    background-image: url(../images/Christiana\ avatar.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: azure;
+    height: calc(30vh);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
