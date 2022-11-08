@@ -15,3 +15,4 @@ Bootstrap version used for build of portfolio is version 4.3
 Please refer to LICENSE in the repo
 
 ## Deployed project link
+https://christiana-ae.github.io/Bootstrap-Portfolio/
