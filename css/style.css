@@ -1,9 +1,11 @@
-h1 {
+h1, h2, h3, h4 {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px;
 }
 
-h2, h3, h4, h5, h6 {
+h5, h6 {
     font-family: "Anton", sans-serif;
+    
 }
 
 p {
@@ -40,4 +42,18 @@ p {
     align-items: center;
     justify-content: center;
 }
+
+img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+   }
+
+/*Card*/
+.cardContainer {
+    margin-top: 20px;
+  }
+  .card {
+    margin: 0 auto;
+  }
 
